@@ -116,11 +116,11 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-
+###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+#
 
 
 
@@ -3938,9 +3938,18 @@ https://links.aqfadtv.xyz/vinmeen.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fed51001c357a9224f8221161313f010:7e0183501f83df2174844c03011fb491
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fed51001c357a9224f8221161313f010&key=7e0183501f83df2174844c03011fb491
 #EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 iQIYI
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+https://stream.zeehanzgadget.com/iqiyi.mpd
+
+
+#EXTINF:-1 tvg-id="300" tvg-name="iQIYI HD" group-title="CHINESE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 iQIYI ALT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1006
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+https://links.aqfadtv.xyz/iqiyi.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3c8254e50da7724a51b591a83205b10:430df09e80ddc23d14f0acf7d24c5a46
@@ -4027,10 +4036,7 @@ https://stream.zeehanzgadget.com/aec.mpd
 #https://linears-playback.astro.com.my/vsg/41xB9XItVsSi_aY-Km766Bzd7H5SbMrtd96avLK7ICsRU=V2z9/dash-wv/jitp-linearwm/2400/default_primary.mpd
 https://links.aqfadtv.xyz/aec.mpd
 
-#EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="CHINESE" tvg-logo="https://iili.io/1NBT5F.png",306 Astrox AEC ALT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-https://link-playback.kaytv.com.my@4aog.short.gy/aec.mpd
+
 
 
 
