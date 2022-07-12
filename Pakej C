@@ -117,11 +117,10 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-###
+
 
 
 
@@ -3024,6 +3023,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 9
+https://ktiptv.asia:443/J0269/0927/694460
 
 
 
@@ -3109,6 +3110,8 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 9
+https://ktiptv.asia:443/J0269/0927/694464
 
 
 
@@ -4025,10 +4028,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_primary.mpd
 http://139.99.96.163:2095/User38281/ANdvQ7s4qyS/41
 
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="CHINESE" tvg-logo="https://iili.io/1NBT5F.png",306 Astrox AEC ALT
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+https://ktiptv.asia:443/J0269/0927/25968
 
 #EXTINF:-1 tvg-id="306" tvg-name="Astro AEC HD" group-title="CHINESE" tvg-logo="https://iili.io/1NBT5F.png",306 Astrox AEC ALT 2
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-939eeabbf916/585053185
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
 
 
 
