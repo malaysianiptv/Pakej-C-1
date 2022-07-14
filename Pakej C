@@ -117,11 +117,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
-
+###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+###
 
 
 
@@ -5116,6 +5116,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d8cc914692987662d5beeed2a84ecf10&key=1ad7af3abe78cece01e7a772dd88a09b
 #EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-title="CHINESE" tvg-logo="https://iili.io/1OtOw7.png",311 Astro AOD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2706/default.mpd
+
+#EXTINF:-1 tvg-id="311" tvg-name="Astro AOD HD 311" group-title="CHINESE" tvg-logo="https://iili.io/1OtOw7.png",311 Astro AOD ALT
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053203
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
