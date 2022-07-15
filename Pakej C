@@ -116,12 +116,12 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-
-###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-###
+
+
+
 
 
 
@@ -4262,9 +4262,8 @@ https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053178
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
-
-
-
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053179
 
 
 
