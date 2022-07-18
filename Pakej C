@@ -117,9 +117,27 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6085,8 +6103,10 @@ http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
 
 
 
+
+
 ###################################################################################################################################################################
-##################################################################### HONG KONG  ##################################################################################
+##################################################################### TAIWAN & HONG KONG  ##################################################################################
 ###################################################################################################################################################################
 
 
@@ -6094,53 +6114,53 @@ http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="HONG KONG",RTHK 32
+
+
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="TAIWAN & HONG KONG",RTHK 32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="HONG KONG",HKSTV
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="TAIWAN & HONG KONG",HKSTV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="http://cdn.shopify.com/s/files/1/0321/9097/files/fullsizeoutput_59c4_large.jpeg?v=1508288361" group-title="HONG KONG",World Poker Tour
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="http://cdn.shopify.com/s/files/1/0321/9097/files/fullsizeoutput_59c4_large.jpeg?v=1508288361" group-title="TAIWAN & HONG KONG",World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://vhx.imgix.net/tvbusa/assets/e4ef0d62-1a79-45e5-9a5b-adc9b5f0c491-f4dcf7be.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640" group-title="HONG KONG",TVB J1
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://vhx.imgix.net/tvbusa/assets/e4ef0d62-1a79-45e5-9a5b-adc9b5f0c491-f4dcf7be.jpg?auto=format%2Ccompress&fit=crop&h=360&q=70&w=640" group-title="TAIWAN & HONG KONG",TVB J1
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz0Ews7RFo9FGHknchFYHwvEBFBWiGdFqNVKTUQzn-pzHIYWS9Qq24XcBOedYtuRO-ZM&usqp=CAU" group-title="HONG KONG",TRT World
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz0Ews7RFo9FGHknchFYHwvEBFBWiGdFqNVKTUQzn-pzHIYWS9Qq24XcBOedYtuRO-ZM&usqp=CAU" group-title="TAIWAN & HONG KONG",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://sofy.tv/img/logo.png" group-title="HONG KONG",Sofy TV
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://sofy.tv/img/logo.png" group-title="TAIWAN & HONG KONG",Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://pbs.twimg.com/profile_images/1385882506327695360/4H3lLevo_400x400.jpg" group-title="HONG KONG",Ski TV
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://pbs.twimg.com/profile_images/1385882506327695360/4H3lLevo_400x400.jpg" group-title="TAIWAN & HONG KONG",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://www.nicepng.com/png/detail/79-797341_website-red-bull-tv-icon.png" group-title="HONG KONG",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://www.nicepng.com/png/detail/79-797341_website-red-bull-tv-icon.png" group-title="TAIWAN & HONG KONG",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozgWtw_m1KhEDEa6ZcEP4B2AEWUYlEsrWlYIkAPKFC0usaCWwBLDeP68N_dvUehKdvvc&usqp=CAU" group-title="HONG KONG",DW English
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSozgWtw_m1KhEDEa6ZcEP4B2AEWUYlEsrWlYIkAPKFC0usaCWwBLDeP68N_dvUehKdvvc&usqp=CAU" group-title="TAIWAN & HONG KONG",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 
 
 
-###################################################################################################################################################################
-##################################################################### TAIWAN  #####################################################################################
-###################################################################################################################################################################
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://i.pinimg.com/736x/e7/be/50/e7be5002eab6547522523af2a9e118c0.jpg" group-title="TAIWAN",Daai TV
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://i.pinimg.com/736x/e7/be/50/e7be5002eab6547522523af2a9e118c0.jpg" group-title="TAIWAN & HONG KONG",Daai TV
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://play-lh.googleusercontent.com/uG1lBnl5OSiXA9DIVCRy5_EI6WKR6yybEp0y-GZbFUcuI85jtSe-0EW_ua4iYoZxHW0" group-title="TAIWAN",Supreme Master TV
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://play-lh.googleusercontent.com/uG1lBnl5OSiXA9DIVCRy5_EI6WKR6yybEp0y-GZbFUcuI85jtSe-0EW_ua4iYoZxHW0" group-title="TAIWAN & HONG KONG",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAxlBMVEX///+EMjb0giCQTE+DLjPfzcx8GyLzegDzeQDzdwCCLDF/Iyl+ICb97OF5DBaBKS7LsrOJNzfy7O3CoJ57ExudYF7KrKr4tYn0fxjz7u7m29yrf4HzcwCbW1q1iomoeXv+9vD85daOQD76z7P2mVbcyMb4sYDSvb70hSP5vZT3qnP96dv1jTj71b3+9O3838z3oWL1lEj6xqOORUakb272mVP3pWp0AAC4kZDl19X6yKf1iTD707j4qnB2AAySSkjBnJiaW15fzygwAAAR4klEQVR4nO1dh3biOhC1wVhuYIpDTAmYEFroNRA2Zf//p57VbLkB2Q3B+47uOZsFF1lXM5oZyRohCBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBzXhTOeT6fd6XSev3VNroBO93kLFFUBEO7/mUV/+j/iOX0DCrDtDAvbBkqmP7911b4D8x0AQXIMTQD641tX8C/RPbL0bAr/EADbf1mQ3aHHz1VK+7hdvD3fv70tlkeott6Z5b/Kcb6kLAA47l47DnNuNl8tMvS0rS7+SavzrNhERsdRfGeb921Arxn9cO3+HvMMIPLZndLB6VLFHMFy9mN1+xaMVMKvf67i8y3maINfP1Kzb8IOC1C5qH+5/RVdrf47murgKtvD6YU3rHB3BM9Xrdb3wTmi+io75+Jb8hPUJmB3vVp9I5whJrj60l19BVFcXKlS34qJjezGWS9+6PV6ubL3dYVsE3i7at2+BU+IYOacianv962Hl5d3s0VJTjHF+2tX8G/RB8jGXOjccm1LthrkyxxRVLtXq9u3oIsI2pcHYeW2pZfq+DORYqpHG3ls9TtfuadnmvIBf3yF5saeXKNm34UlZKheEpyUB8XiAMuuLJp6DR9FOp7mrvh6cQVrh1y1Yb2sq/BLWTLvyPEtaqLU6qkDgkqWKz3sc6du6K3f11B6h4I1wEdmyBIvr1nLv0EfCcC3MoMXUzPXg1O3fL7rUFU/5Sw50IVdEaTUnuZR5djw+ZCVxcePu3LiLW4rFEpQiqUCsafIn9rH69Xyb/AMRTgMHquKmvjwUYy7/FBBFrT63nL/FgtVcjgPXQZ4vWZF/xQzENWvcn1wZ2rrhxgpNizD+oQfNgV4Vt/QE7Ch0ukxRiCsXoNH2Xz8eMiK617k6oYsiqIFBVdG4tv8pmdmSIiXDrx+EsOIdpUKsqzr8mZf3NRDF5cLLkFRMuDnNnQV1ax3bgeF+HT1+n4ZU+QqnMCxQ65XqVSLrbW+/tw0asyZogEZijI0tL2S+6fuM+wgi5W+aRvU8v3I4XLb1E1XWrpUYjvjp44YGtDK1B7hdRv/JBx/pc/WOFBJ1UhAWrVMEUPKtpjjA9gNRS2LOuiD+69W9U/C0MjeXrvGX8UcKmnEjVUskUIS2RM1izlUEaDV9U/mYVmqc83q/gGQJQ0radEnKIp6ILi501wRkmg0EtlBNVXSNtUPRxVhE1+WJYahVKLHc8WWsDd9hhHA5krdCCMTo1gNU2RhboquKh4ahmzI+9YphlDl7ZRNSo1jumFNkgIMRc14KbvROGIL/5rthNJweHT1Sn8J0BvaoQnduiWGofd+a/43K3HYAWdc1XR5RNRzQrPyPTnCUDR8xZXkTXxZAh5gpMzU3IPoqC6OobYp0Y/rfXJx/Ri7dWO8wSqFGv0Q1VLRrGyomp4a/SOVSFdUA+dXIlNsD1KUor6nkvXmSWPQjVH6GwO5w/AEEgmvA7AGRZ2SXScO/iFDO10OEQ2dwvPAdTNC0LgTclCISLqaER03YvwrDIVSWE2hB6xCyWIFlqzY+Y1UMozth7VSNkRRdoVWdbVUrxB7U4h3id30hW2xDOvrxmOQouHKrOIyNFsV/RRFOH4CX3sBeW30Y7yF0No0PtcBirIbmO5dbtJa0MkJ6xBT3CjGvd4Yo7hGr9w1KjWdpQjnZeCoQpTLPeItg+NGgl36PP4qzjQMqg8boc1GNpJRwi5fr2Cm0PrEBG/Q+SjpenuBxjvR+bGsIbQGJZHlqGMboz1uPNWNRDdoSkRxfqLiFyMfP97ZmIGZjABVb5ChZWNLG0ZKuy2OwZcyBIcB1FUtliJjf8KOH7nDtK08WdhJ1q/2GBOeBhAZ6yPLnC5nQWYAY5v9Lhq7hRlaoVviZyZvjISO6IYwMaPEIPTHUATeSeEkhkAmqqMurHaOoGRFZmvu7eiUSAowCs2P5UlWRfakkmpWNjq+sNP58gnNtnnDi9FRVZQJtDy1yADDk54p63cx46df6B3PT9b9Qiz9VzOdI15+qcIYoB6jp5Kpy8ZjY1CLK2gS/47n9uh6r9e6Cl2Hj5ZTDsIuXzI+WpVc0gAfLf5K58IoaONh29MV0JCmAidbQlGN9nCyGKQLKZvwJljhnoiXUdpgt4Arf1VoMVoBRXWHTifwC70fTddcqQekm7gLgsUMdkc6P7XRWYbmiTJQ0J1SEZKeiPsfNhQwDMArMQMU5RNl4JVtaYtnPCztAEHsQuyJIwQpFpJLmCrs7elDBwuRWXM/VujimA2dPDXl9/DKDA8z3ETO9av6hxjj3BD2FTySIlqJ10Ivtg2rcWI6H60RV9IXzlDgZcyhRWlj16JiRa0WNLlUjb2TYAHSnXWB7HzGzoTe+42HkCI8eFiTCeDZfDUaraZOqAC8Rjylq/YE4g5dPx+JRvKu7tkZzzw6r0uA04Ht50Bj4JSLL6wR/2H0CcEYQw+zhGzysmzWZ5JmbfYN2jN2pCn19YKzTSYowFxEnCXk9EM5werCIQU8oQKUdE0D+8gfSYZdkquGuVt2ZmR7MQFNBraH6JYxTiVKbbLFL5JCeCJTJg/z2bzUX8V+6/eHZIi18oL1ZloJ9km66OlMmRWVnw2esahXWI5gR1Q8heN6hNmWRDJL59RlqyGV37Mn6dlO9cZZVF/Th/nQ9ge7iXAWCglZJwEeUy83Hzw5V63nH+OeGMfT7zNnRxqThy9z3nABdrrWJXiYkRTejHpyaciMGk47pqdNkcWxl6nU0V80nd4+7aeJBMEk3hT1oSlOZUr+G8icrDkFsaLJKbBjpAqhLnp7UBOTUc5ltm5xYvCpce0rVFUb9J1vrODf4t7bFOLsS6KnC5TQQSYLDFPj88fUxNjD86Fyx1Yyu7MamEdWNSUbnfgBNNg6l1yfv+QqIb+D0auyuP1s8ArQAEz55lU9+T7cbkld3Nbk5IdegJm5gkatJpDj8pbbgAy9OIuO7b4Znf5QAao9utlg/zWD9iRTM1d80d4ZbUGzue0613vEScxfR6PX+ZWf7sxf+5NJCuMcDg4Ojijq+9/Z/xF+78PvtVqyrkk3wXc9NliOpsutAMHN2SVZ/x4MdkXu+TVnX4WkmeGcvD+AZmpfKEQyg5fLzBs8nNgh6gUX8BWtZMFP3nJQdBxeIhU8WLJhesVp6IhXtClbj3ftB83y13brhRDgY0z4wW9cK1CIpFulh/ZmLcv+cjEZ3uB9xbXxnil/tBt3JcvQ/BI8giS5TEecYQoPzmN9INfi4+436dFvlNph0NbJO3m8LrRMl6RbG5JZUK6UyBV6JWzZeoZottjbRAsujCrT1/zGukqWEuXalKOMrEebfCO1KZBnkjfKtWLWazN/WTXJSzIoQ5KpS5dpGXEMUWl7Q/IZ1nBV9TWbVkDyt2IYyoShUDGiDCWDfUdcvjNOM9RK7DOLhsRWHKKqx8oQZUQkyZC0L9JDVoZ6aMV9UT7HUFhrDEPERZJCyRe4oZIYBjcxcMu2wppTNYIMvWxrvG6ZyFCKYYhzCxmG5u/wFUhEUYY5n2FODjOUI4s0GvoJhkQb670eaRgqmvMMcWOEZbhpt9uNT6Ywn6Fk4lWGxQejYJBtPrIafVYO3klwp3kMhbYeZEiMYL1tFuSPit/YCQzJ+ri7gixbJUS2Fu4bYS31M+Y3Zkw/fDFd6AWy7FxmGZIy7yyoeOY7WjQ6MOjxgWV60ESfYU0LMCTr3Qbv8OGS/IEbW05kiMupIFaSjJoY5yAlMxQ9hiiXJ8yQGGgdN93eZBjidVwNYjtwS9V0j2Ew09JjiDurZ2nQRidCnfoB0rNdIVrxDA20smNPzGVRcBwBp+CekyFqDBgL6KF+SB+Na3KQfYY4sb5W8DggtRRPMkSPgXtHeAzxpm0bz+/hnK+KnihDlCpdzlrIQaOgTTyjpViGPaRjbi9KkKGoocZ1DJ8hLoF0a7dFRKSQPsN3g8L0GKI/MGWfaqmEdINZ+Y6vc1syqR/SbTX2WUN2WcYxjLU0OYkoS9jSUIaku0o+Q7wrINkkwg+DvWeVaxjlGhQnrnkbScA1WJShjg4wKe44W6icKEPGs9cG+6wfA52TYe4FXdDSkxiSXvch+Qz9KrjmouZA1KB+RbwF9BCYYeMFObOS5DGs0GpQoH3O3NAy0R9KrHept+SzWkpkKMvo2WaSloqF2gmGvu88w9BAd/csytALrXw1JfYxMaaR5ED5ZVG7TIYy3sWw95JgabBeuUYuTkvPMDz4DE0Z2cLNO7E0epihJDnwiBt8Jsaloi43ev6Cf5LOGWFohBkSa3mXJEO0Q5fAeAtjQBjB55fr9Xo5wHDArJ6VfIaiButWe6EMw/1QQv2wZp6IvKGgZeNjT1liy3Jehq66wjvqSbYURWhl1lugypFdIizLKmSDDGVseKC5ExmGOtpVoVLGDHGIUmMGY+h0PWJLS6Q2kuwCtaopm3gnsZp+IUNR911WlCEOrnoMQxKNeFnN+meQYZw/hDrtG0PoLfCwLsYfYhUhQSfxKmVL+33I5XKEg6QzVbiEIZNhHWFo4rIabEyDe0qPtoEV0tIkhn5eAozajNiYxq0zLsUbOexxLbESe8NMtDchHjOct6Ui++xwXCqvsT5YbFxKdguqFGB4ob3jhbI+QyYuNVmGokHrAmMaXGUvLsXfYL/EIYbwgLyBiS05FC2OgXDH1VCKwzktZRj6kx0+w3bDxZ6kYvn7PKFWtLC+5TZGQafDbo9hDt1JILEMScvTsQVumXrDHVtkyfOR2uGwWqiUrIK5KdPjZKC7t9zuWMDj78EZS8MyxI5YSBof9kLjQ2ybgojzFoJgBBjSyAuN8aWE8SGxOSyg0fSe6fZH0lCPZ8YWLEMvTT52jN+LjPHNjwDFyoUMiWMisxiSGRrj03QiObRDyAETD+cPt8Mj4EF8XEpKtXpJDGvkwYGZKE1kUglb8qUMie2n8zSBG+p3nokKBi9FMplnZlmh12hKh+HttVEOzLXpIYaEV0hLT8y1yQ8kn3CQ1Y16AkPXFgQYEsfEzLVViMb12jKT5m6sq4RNuZj1drrTrA1t10PLpH5G9qdviO9Bk5qoI1jsRKY/e3rhfKlmWI8P7Q8ZVkDGJUbmS9GkTmD6MzR7KumWlm3fPbLzpeS4+bHZZEuWwU7/wjnaTXuzRuMncoiZFCsHtuX4DsA5778vRIqf85YkTYuZUXefyT5UktkZuIP5DRVKFSTdDGYdlRu6/H+CpTci2bc1GN39b3CIzZ3m4OD4h5CngF9m5LMDvzj5fPQy+HmMj8/wtzxdZ+pMR6uxdzm9cTYddekXUmKg4OvjqamqAKhqEz61r7qf3M9o/V6n2XS8y5rohNqEy9uHOJXp2ETZCipJbHoFzWZTxSkk+WaTkBiBptqkGaTTZhNmLsybP/pbF6O35609fH7ewbrfg8mzix3KoOgA4HiXAfsJnXFQreEC/byKt7Wy8S5EY9Xu5ucTFZHJA7JdyL0K+t17G+D9tOYgM3Rg4u1Pbz/fBXSDqns2uSDIkMnQGqvwxErB1xKGI8RtDlCON2WYV9DJDkC7MECGMGn95xm+fpGhMIS/q7MliZMAM+yqGX/lKGW4AjgB+A3/bNdcWS7Vzm0Z2hm4kLaJvgQZwt+IVUjVRspOmKlkH2wiQ2HpdtMJ+WFLynBB9hkgWjJXd2N1cmMZHhdPT0/YEIT64dI98YQXuY8VW3hVSDUpQ+HXDqgK/r1DynBJEjKmAO0QNVcXrjFbddKvpcJRmT/R5Feb2e+s82wrkBpl2Ccm5h6gDQsgQ2Fov4J0MmQX2o/AJENPEobbI2qCI7IplOFUxT9pMcGyRAynqv3jP+XBMtyOO53OHPUml+EcfkF1BGDU8b7AbSO8zVgIw3sVppvm8R59nreYgOVYmO1IWyGGwuIGDFW6RZXr8ZsQqAYd18vDL9iv2+gzTVs+Au9nygBWV2eigqetqqKemlfJZoT5oeLeqZCE/CkqeAbAT//OxbxPs2S69xgopsn30Wf8S+L4832/Qy/0MtL69KfGV1vVxrGCMOt7Pze72oLlPfnS6aOCf/XTtrkgBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwfHP4j/AOemqvT/kZr5AAAAAElFTkSuQmCC" group-title="TAIWAN",Indigeneous
+#EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="data:image/png;base64,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" group-title="TAIWAN & HONG KONG",Indigeneous
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+
 
 
 
@@ -6150,6 +6170,7 @@ http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 ###################################################################################################################################################################
 ##################################################################### INDIA COUNTRY  #############################################################################
 ###################################################################################################################################################################
+
 
 
 
@@ -6197,6 +6218,7 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="UK_BBC_2_HD" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/10/23/Untitled-1_3.jpg?itok=49goGAHH" group-title="INDIA COUNTRY",NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
 
 
 
