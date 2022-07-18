@@ -116,11 +116,12 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-###
+
+
+
 
 
 
@@ -4254,6 +4255,8 @@ https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
 http://foctv.xyz:25510/548859/585898/297
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157492
 
 
@@ -4325,6 +4328,8 @@ http://foctv.xyz:25510/548859/585898/19
 http://foctv.xyz:25510/548859/585898/20
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157481
 
 
