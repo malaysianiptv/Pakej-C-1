@@ -115,13 +115,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 <noscript>
 
-
-
-
+###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+########
 
 
 
@@ -4346,13 +4344,17 @@ http://foctv.xyz:25510/548859/585898/27
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 
-https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053179
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 2
-http://foctv.xyz:25510/548859/585898/19
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 3
-http://foctv.xyz:25510/548859/585898/20
+https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053179
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
