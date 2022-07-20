@@ -116,11 +116,10 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-#
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-#
+
 
 
 
@@ -4198,7 +4197,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-https://m3u-editor.com/serve/jackstore/463614330 
+https://m3u-editor.com/serve/68db7a60-0450-11ed-bd29-433a8f8eca6e/597635811
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4293,7 +4292,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-https://m3u-editor.com/serve/jackstore/463614332 
+https://m3u-editor.com/serve/68db7a60-0450-11ed-bd29-433a8f8eca6e/597635776
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4365,7 +4364,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-https://m3u-editor.com/serve/jackstore/463614333
+https://m3u-editor.com/serve/68db7a60-0450-11ed-bd29-433a8f8eca6e/597635823
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5188,8 +5187,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
 #EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",241 ABO Movies Thangathirai 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2109
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 BollyOne 
@@ -5216,8 +5215,8 @@ https://stream.zeehanzgadget.com/vinmeen
 
 #EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",202 Astrox Vinmeen ALT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2105
-https://m3u-editor.com/serve/jackstore/589344525 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
+https://m3u-editor.com/serve/68db7a60-0450-11ed-bd29-433a8f8eca6e/597635863
 
 #EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://iili.io/1NuZbI.png",202 Astrox Vinmeen ALT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
