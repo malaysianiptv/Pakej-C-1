@@ -116,6 +116,7 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
+
 ###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
@@ -4216,25 +4217,23 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 #http://iptv12k.com:35461/live/80301062102/732099/735.ts
 #https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
 #https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164
+#https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053174
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 6
 #http://iptv12k.com:35461/live/80301062102/732099/4353.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#https://m3u-editor.com/serve/fab2e470-f140-11ec-83dfgd/586130438
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
-#https://m3u-editor.com/serve/fab2e470-f140-11ec-83dfgd/586130438
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 9
-#https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053174
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_primary.mpd
 
 
 
@@ -4307,12 +4306,6 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 #https://bit.ly/3iYmm3N
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 5
-#http://iptv12k.com:35461/live/80301062102/732099/4313.ts
-#http://urtv.cc:80/454781209544/431009674535/6740
-#https://bit.ly/3qXLkot
-#https://bit.ly/3Dy8sPk
-
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 https://m3u-editor.com/serve/qwe1234123412/463614332
@@ -4320,22 +4313,29 @@ https://m3u-editor.com/serve/qwe1234123412/463614332
 #http://mvu03.wanicelife.com:8880/SWFAF1222122/UZ7NT8FA/1706
 #http://wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
 #http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/1706
+#http://iptv12k.com:35461/live/80301062102/732099/4313.ts
+#http://urtv.cc:80/454781209544/431009674535/6740
+#https://bit.ly/3qXLkot
+#https://bit.ly/3Dy8sPk
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 7
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157492
 #https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 8
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
+http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157492
 
-#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 9
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2402/default_ott.mpd
+
+
 
 
 
