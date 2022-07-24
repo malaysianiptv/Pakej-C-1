@@ -4625,12 +4625,11 @@ http://jessicatv.site:8080/one-day-test-89fc/54CbToqS2c/157557
 #EXTVLCOPT:http-referrer=https://player.licenses4.me
 https://etus.link/ds_assp3
 
-#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png" group-title="SPORT",Astrox SuperSport 3 ALT 3
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORT",Astrox SuperSport 3 ALT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default.mpd
 https://networkbest.ru.com/cdn/premium125/playlist.m3u8|Referer=https://player.licenses4.me/&Origin=https://player.licenses4.me
-
 
 
 
