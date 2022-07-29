@@ -117,10 +117,11 @@ window.location = "https://laksa19.github.io/myqr"
 
 
 
+###
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+###
 
 
 
@@ -4796,6 +4797,11 @@ https://networkbest.ru.com/cdn/premium123/playlist.m3u8|Referer=https://player.l
 #EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142712.m3u8
 
+#EXTINF:-1 tvg-id="811" tvg-name="Astro SuperSport HD" group-title="SPORT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",Astrox SuperSport 1 ALT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6d2d84310d3fb9230404a1fbf5b33d10&key=8be93a0a6b41efad87096080bc55211a
+http://172.96.160.37:9138/stream/live/c20414.m3u8
+
 
 
 
@@ -4825,6 +4831,14 @@ https://networkbest.ru.com/cdn/premium124/playlist.m3u8|Referer=https://player.l
 #EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png" group-title="SPORT",Astrox SuperSport 2 ALT 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142713.m3u8
 
+#EXTINF:-1 tvg-id="812" tvg-name="Astro SuperSport 2 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png" group-title="SPORT",Astrox SuperSport 2 ALT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+http://172.96.140.34:9138/stream/live/c20415.m3u8
+
+
+
+
 
 
 
@@ -4853,6 +4867,13 @@ https://networkbest.ru.com/cdn/premium125/playlist.m3u8|Referer=https://player.l
 
 #EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORT",Astrox SuperSport 3 ALT 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142714.m3u8
+
+#EXTINF:-1 tvg-id="813" tvg-name="Astro SuperSport 3 HD" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORT",Astrox SuperSport 3 ALT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+http://172.96.140.34:9138/stream/live/c20416.m3u8
+
+
 
 
 
@@ -4884,6 +4905,14 @@ https://networkbest.ru.com/cdn/premium126/playlist.m3u8|Referer=https://player.l
 #EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png" group-title="SPORT",Astrox SuperSport 4 ALT 4
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142715.m3u8
 
+#EXTINF:-1 tvg-id="814" tvg-name="Astro SuperSport 4 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png" group-title="SPORT",Astrox SuperSport 4 ALT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0f38843b85760decb7a30fde6af3ff10&key=9c50a5c2b6219463f05c5d8f9f42892e
+http://172.96.160.37:9138/stream/live/c20417.m3u8
+
+
+
+
 
 
 
@@ -4908,6 +4937,7 @@ https://networkbest.ru.com/cdn/premium43/playlist.m3u8|referer=https://player.li
 
 #EXTINF:-1 tvg-id="815" tvg-name="Astro SuperSport 5 HD" group-title="SPORT" tvg-logo="https://i.ibb.co/3St4vz3/astro-supersport-5-logo-2021-flat-version-by-officiallogotv-deqhz5n-fullview.jpg",Astrox SuperSport 5 ALT 3
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142716.m3u8
+
 
 
 
@@ -4988,6 +5018,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default.mpd
 #####################################################################################################################################################################################
 ####################################################################    MOVIES   ####################################################################################################
 #####################################################################################################################################################################################
+
 
 
 
