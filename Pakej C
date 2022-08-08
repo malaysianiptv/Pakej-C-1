@@ -116,13 +116,9 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
-#########
-#################
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-#################
-#########
 
 
 
@@ -4498,7 +4494,8 @@ https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142668
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 9
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053174
 
-
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="ASTRO",Astrox Ria ALT 10
+http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
 
 
 
@@ -4614,7 +4611,8 @@ http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=802010
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 10
 https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMztcMyr3_qnJFfuOgt6eEaM
 
-
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 11
+http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
 
 
 
@@ -4683,6 +4681,11 @@ https://smetv.live:443/play/NkmAq3gXObo1bORTZDGEMxOoV29CS93LS6EEnsDh15M
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 9
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053178
 
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 10
+http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 11
+http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=citra
 
 
 
