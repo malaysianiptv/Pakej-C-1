@@ -116,10 +116,11 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
+########
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+#########################
 
 
 
@@ -5368,9 +5369,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5058/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb9d78b1c5776744014935bb3fe4ea10&key=0dc6d298bc48c0de11dc6bf9ede30323
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c5977ceaa1c8d023d39f2f985fbfa610&key=92f2030d741e13505bc4a675425a397f
 #EXTINF:-1 tvg-id="810" tvg-name="SPOTV2" group-title="SPORT" tvg-logo="https://iili.io/MkG2hg.png",810 SPOTV2 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5079/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e2a4758854ddf83f1e8f465a3d3d8910&key=a464e1f2f904d40f3235a57304e72d78
@@ -5828,6 +5829,20 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF: -1 tvg-id="WeatherNews.jp" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="JAPAN", Weather News 
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/512px-AT-X_logo.svg.png" group-title="JAPAN",AT-X 
+https://sub2.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/HUHGTzu.png" group-title="JAPAN",Nippon TV 
+https://ntv2.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/512px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="JAPAN",NHK General TV 
+https://nhk2.mov3.co/hls/nhk.m3u8
+
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="JAPAN",TBS 
+https://tbs1.mov3.co/hls/tbs.m3u8
+
+
+
 
 
 
@@ -5835,6 +5850,8 @@ https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #####################################################################################################################################################################################
 ##################################################################   INDIAN   #######################################################################################################
 #####################################################################################################################################################################################
+
+
 
 
 
@@ -6724,6 +6741,25 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
 #EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/jz5pPEz.png" group-title="THAILAND",ASTV News 1 
+http://news1.live14.com/stream/news1.m3u8
+
+#EXTINF:-1 tvg-id="PNTV.us" tvg-logo="https://i.imgur.com/9hDaJ2T.png" group-title="THAILAND",PNTV 
+https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/8TNVsTg.png" group-title="THAILAND",Channel 5 
+http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="THAILAND",Channel 8 
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaoThaiTVHD.us" tvg-logo="https://i.imgur.com/1oHtGxq.png" group-title="THAILAND",Lao-Thai US TV 
+https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NATTV.th" tvg-logo="https://i.imgur.com/G98kEwm.png" group-title="THAILAND",NAT TV 
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
+
 
 
 
