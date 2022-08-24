@@ -116,10 +116,11 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
+#############
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
+###
 
 
 
@@ -5058,7 +5059,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 HD" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1 ALT
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=1
 #https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 
@@ -5068,7 +5070,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",102 TV2 ALT
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
 #https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 
@@ -5091,6 +5094,10 @@ https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="RTMK06" tvg-name="TV6" group-title="MYFREEVIEW" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtm-tv-6-my.png",106 TV6 ALT
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
+
 
 #EXTINF:-1 group-title="MYFREEVIEW" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
@@ -5120,15 +5127,26 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
+
+
 #EXTINF:-1 tvg-id="123" group-title="MYFREEVIEW" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8
 
+#EXTINF:-1 tvg-id="123" group-title="MYFREEVIEW" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",123 Berita RTM ALT
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5
+
+
+
 #EXTINF:-1 tvg-id="111" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NTga4.jpg",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+
+#EXTINF:-1 tvg-id="111" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NTga4.jpg",111 Sukan RTM ALT
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
@@ -5517,7 +5535,8 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="RTMK05" group-title="SPORT" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 #https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+#https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=4
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
