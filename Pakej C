@@ -116,12 +116,13 @@ window.location = "https://laksa19.github.io/myqr"
 <noscript>
 
 
+##################
 ####################################################################################################################################################################
 ############################################################### SCAMMER & THIEF GO AWAY  ###########################################################################
 ####################################################################################################################################################################
-
-
-
+#####
+##
+#
 
 
 
@@ -7402,7 +7403,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 
 
-#EXTINF:-1, group-title="THAILAND",ALTV4
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvkrFf.png" group-title="THAILAND",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1, group-title="THAILAND",tvg-logo="https://f.ptcdn.info/186/026/000/1417615175-ThaiPBS201-o.png",ThaiPBS
@@ -7420,8 +7421,8 @@ http://freelive2.inwstream.com:1935/freelive-edge/nation/playlist.m3u8
 #EXTINF:-1, group-title="THAILAND",tvg-logo="https://image.bangkokbiznews.com/image/kt/media/image/news/2019/11/12/854341/750x422_854341_1573566062.jpg",workpoint
 http://freelive2.inwstream.com:1935/freelive-edge/workpointtv/playlist.m3u8
 
-#EXTINF:-1, group-title="THAILAND",tvg-logo="https://www.true4u.com/images/true4u.jpg",True4u
-http://freelive2.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvKA1N.png" group-title="THAILAND",True4u
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
 
 #EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/th/9/9d/GMM25_Logo.png",GMM25
 http://freelive2.inwstream.com:1935/freelive-edge/gmmchannel/playlist.m3u8
@@ -7432,7 +7433,7 @@ http://freelive2.inwstream.com:1935/freelive-edge/onehd/playlist.m3u8
 #EXTINF:-1, group-title="THAILAND",tvg-logo="https://9oog.com/wp-content/uploads/2020/05/Thairath_TV_Logo.svg_.png",ThairathTV
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 
-#EXTINF:-1, group-title="THAILAND",tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Channel_3_HD_.png",CH3
+#EXTINF:-1, group-title="THAILAND",tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",CH3
 https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png" group-title="THAILAND",CH7 
@@ -7440,6 +7441,9 @@ https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvT6gN.png" group-title="THAILAND",CH8
 https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="THAILAND",CH8 ALT
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News1.th" tvg-logo="https://i.imgur.com/jz5pPEz.png" group-title="THAILAND",ASTV News 1 
 http://news1.live14.com/stream/news1.m3u8
@@ -7449,9 +7453,6 @@ https://livefta.malimarcdn.com/ftaedge00/pntv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/8TNVsTg.png" group-title="THAILAND",Channel 5 
 http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/512px-Ch_8_2016.svg.png" group-title="THAILAND",Channel 8 
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LaoThaiTVHD.us" tvg-logo="https://i.imgur.com/1oHtGxq.png" group-title="THAILAND",Lao-Thai US TV 
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
@@ -7468,8 +7469,7 @@ https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvhQWb.png" group-title="THAILAND",NBT
 https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvKA1N.png" group-title="THAILAND",True4u
-https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+
 
 
 
