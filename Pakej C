@@ -5589,8 +5589,8 @@ http://iptv12k.com:35461/64920220731001/432158/733
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 10
 https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053177
 
-
-
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astrox Warna ALT 11
+https://api.mp4.to/static/downloads/cd3e32ef3e2349a19aac5e785761b4eb/maitenance.m3u8
 
 
 
@@ -5665,7 +5665,8 @@ https://m3u-editor.com/serve/4c3c0ca0-5711-11ec-bc8e-989/585053178
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
-
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astrox Citra ALT 11
+https://api.mp4.to/static/downloads/cd3e32ef3e2349a19aac5e785761b4eb/maitenance.m3u8
 
 
 
@@ -5683,9 +5684,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 #EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",611 Astrox Ceria ALT 2
+https://api.mp4.to/static/downloads/cd3e32ef3e2349a19aac5e785761b4eb/maitenance.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157481
+#http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157481
 
 
 
